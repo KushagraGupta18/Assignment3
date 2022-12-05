@@ -1,0 +1,162 @@
+.NavBar{
+
+    width: 100vw;
+    height: 11vh;
+    background-color: white;
+
+    display: flex;
+    justify-content: space-between;
+
+    border-bottom: 0.1px solid white;
+
+    align-items: center;
+    position: fixed;
+
+    top: 0px;
+    right: 0px;
+    left: 0px;
+
+}
+
+#top{
+    margin-top: 10px;
+    margin-left: 180px;
+    width: 80px;
+    height: 60px;
+    
+}
+*{
+
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.NavBar h1{
+
+    color: black;
+    margin-right: 1400px;
+
+    
+}
+
+.NavEle{
+   
+   width: 75%;
+   position: absolute;
+   margin-left: 600px;
+   
+}
+
+.NavEle span {
+    color: black;
+    cursor: default;
+}
+
+.NavEle a{
+
+    color:black;
+    font-weight: bolder;
+    text-decoration: none;
+    margin: 10px;
+
+}
+
+.NavEle a:hover{
+
+    color: #f2b54c;
+}
+
+.NavEle {
+
+    border-radius: 3px;
+}
+
+
+
+.NavEle button{
+
+    width: 150px;
+    height: 70px;
+    color: #29d9d5;
+    border:2px solid  #29d9d5;
+    background-color: rgb(36, 13, 13);
+    border-radius: 25px;
+    font-size: 15px;
+
+    margin-left: 240px;
+}
+main{
+    background:grey;
+}
+.hii{
+    background: url(https://th.bing.com/th/id/OIP.BIBkDgEpS-p5M7WfgZN2hwHaEo?pid=ImgDet&rs=1);
+    width:1525px;
+    height:400px;
+}
+.revive{
+    font-size:30px;
+    height: 50px;
+    width: 100px;
+    background-color: orangered;
+    color:antiquewhite;
+}
+.true1{
+    margin-left: 600px;
+    font-size:30px;
+}
+.true2{
+    margin-left: 650px;
+    font-size:30px;
+}
+.true3{
+    background: url(https://codingkarlo.com/static/homeimages/pic-1.png);
+    border-radius: 50%;
+    margin-left:540px;
+    height: 200px;
+    width: 200px;
+    
+}
+.true{
+    border: 10px solid #969696;
+}
+.twice{
+    font-size:50px;
+    margin-left:500px;
+}
+.bruno{
+    margin-left:700px;
+    font-size:10px;
+}
+.hello h2{
+    color:black;
+    font-weight: bolder;
+    text-decoration: none;
+    padding:20px;
+    margin-top: 40px;
+}
+
+.hello h4{
+    padding:20px;
+}
+.Contact h2{
+    color:black;
+    font-weight: bolder;
+    text-decoration: none;
+    padding:20px;
+    margin-top: 40px;
+}
+.Contact span{
+    padding:20px;
+}
+.links h2{
+    color:black;
+    font-weight: bolder;
+    text-decoration: none;
+    padding:20px;
+    margin-top: 40px;
+}
+.links a{
+    padding:20px;
+}
